@@ -1,3 +1,5 @@
+This is my fork of Vitaly Bragilevsky's *Haskell in Depth* repository. I've been modifying his code, so I recommend that you check out the original for your personal use.
+
 This is the sample code to accompany the book *Haskell in Depth* (Vitaly Bragilevsky, Manning Publications 2021).
 
 To get the source code on your system, you may want to clone this repository:
